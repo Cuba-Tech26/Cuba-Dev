@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cuba-Tech26
+- 👋 Hi, I’m @Cuba-dev
 - 👀 I’m interested in web/App development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me anselem2016@gmail.com
