@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cuba-Tech26
-- 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web/App development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me anselem2016@gmail.com
 
 <!---
